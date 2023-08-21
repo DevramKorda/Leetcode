@@ -1,0 +1,13 @@
+C:\Users\Mark\source\repos\Leetcode\21\obj\Debug\netcoreapp3.1\21.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Leetcode\21\obj\Debug\netcoreapp3.1\21.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\Leetcode\21\obj\Debug\netcoreapp3.1\21.AssemblyInfo.cs
+C:\Users\Mark\source\repos\Leetcode\21\obj\Debug\netcoreapp3.1\21.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Leetcode\21\bin\Debug\netcoreapp3.1\21.exe
+C:\Users\Mark\source\repos\Leetcode\21\bin\Debug\netcoreapp3.1\21.deps.json
+C:\Users\Mark\source\repos\Leetcode\21\bin\Debug\netcoreapp3.1\21.runtimeconfig.json
+C:\Users\Mark\source\repos\Leetcode\21\bin\Debug\netcoreapp3.1\21.runtimeconfig.dev.json
+C:\Users\Mark\source\repos\Leetcode\21\bin\Debug\netcoreapp3.1\21.dll
+C:\Users\Mark\source\repos\Leetcode\21\bin\Debug\netcoreapp3.1\21.pdb
+C:\Users\Mark\source\repos\Leetcode\21\obj\Debug\netcoreapp3.1\21.dll
+C:\Users\Mark\source\repos\Leetcode\21\obj\Debug\netcoreapp3.1\21.pdb
+C:\Users\Mark\source\repos\Leetcode\21\obj\Debug\netcoreapp3.1\21.genruntimeconfig.cache
